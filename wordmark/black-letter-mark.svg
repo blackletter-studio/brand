@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Black Letter">
+  <defs>
+    <style>
+      .bl-mark-bg { fill: #faf6ef; }
+      .bl-mark-border { fill: none; stroke: #1a1a1a; stroke-width: 3; }
+      .bl-mark-b { font-family: "Fraunces", Georgia, serif; font-size: 92px; font-variation-settings: "opsz" 144, "wght" 600; fill: #1a1a1a; letter-spacing: -0.04em; }
+      .bl-mark-l { font-family: "Fraunces", Georgia, serif; font-size: 92px; font-variation-settings: "opsz" 144, "wght" 400; font-style: italic; fill: #6b1e2a; }
+    </style>
+  </defs>
+  <rect class="bl-mark-bg" x="2" y="2" width="124" height="124" rx="14" />
+  <rect class="bl-mark-border" x="2" y="2" width="124" height="124" rx="14" />
+  <text x="16" y="96" class="bl-mark-b">B</text>
+  <text x="72" y="96" class="bl-mark-l">L</text>
+</svg>

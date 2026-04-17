@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" role="img" aria-label="Black Letter">
+  <style>
+    text { font-family: "Fraunces", "Georgia", serif; font-size: 72px; fill: #1a1a1a; letter-spacing: -0.02em; }
+    .accent { fill: #6b1e2a; font-style: italic; }
+  </style>
+  <text x="20" y="85">Black <tspan class="accent">Letter.</tspan></text>
+</svg>

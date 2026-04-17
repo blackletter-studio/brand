@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 128" role="img" aria-label="Black Letter">
+  <defs>
+    <style>
+      .blw-body { font-family: "Fraunces", "Cormorant Garamond", Georgia, serif; font-size: 86px; font-variation-settings: "opsz" 144, "wght" 400; letter-spacing: -0.02em; fill: #1a1a1a; }
+      .blw-accent { font-style: italic; fill: #6b1e2a; }
+      .blw-punct { fill: #6b1e2a; }
+    </style>
+  </defs>
+  <text x="20" y="92" class="blw-body">Black <tspan class="blw-accent">Letter</tspan><tspan class="blw-punct">.</tspan></text>
+</svg>
